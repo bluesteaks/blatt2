@@ -1,3 +1,4 @@
+// Lukas Troska und Konstantins Starovoitovs
 // blatt2.C (Read digraph from file and find strongly connected components by non-recursive algorithm)
 // Algorithmus arbeitet analog wie in Vorlesung, es wurde nur die rekursive DFS durch iterative DFS ersetzt.
 // Laufzeit ist daher gleich und Korrektheit klar.
